@@ -1,4 +1,3 @@
-cue-sheets
-==========
+# Cue Sheets
 
-Various bike ride cue sheets
+Various :bike: cue sheets. Many props to Jenn Chan who I stole these from.
