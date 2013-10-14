@@ -25,7 +25,9 @@
 0. R Castle Rock (roundabout)
 0. L North Gate
 0. S Summit Rd.
+
 ---------------
+
 0. R North Gate
 0. R Castle Rock
 0. L Walnut (roundabout)
